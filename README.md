@@ -24,11 +24,11 @@ A **Cookiecutter template** for neuroscience projects, specifically designed for
 
 1. **Generate a new project**:
    ```bash
-   cookiecutter https://github.com/syntheticdinosaur/cookiecutter-neuroscience-project.git
+   cookiecutter https://github.com/syntheticdinosaur/cookiecutter-neurostimulation.git
    ```
    or locally:
    ```bash
-   cookiecutter path/to/cookiecutter-neuroscience-project
+   cookiecutter path/to/cookiecutter-neurostimulation
    ```
 
 2. **Follow the prompts** to customize your project:
