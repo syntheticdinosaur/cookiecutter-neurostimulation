@@ -1,7 +1,7 @@
 # Ignore all data, except for example data
 
 # Ignore all files in data/
-!**/.gitkeep
+!/**/.gitkeep
 data/*
 # Except files in data/example/
 !data/example/
