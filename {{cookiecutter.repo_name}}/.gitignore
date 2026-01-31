@@ -1,12 +1,12 @@
 # Ignore all data, except for example data
 
 # Ignore all files in data/
+!**/.gitkeep
 data/*
 # Except files in data/example/
 !data/example/
 !data/example/
-!data/processed/.gitkeep
-!data/raw/.gitkeep
+
 
 
 
